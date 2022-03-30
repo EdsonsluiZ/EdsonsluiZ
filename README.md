@@ -14,7 +14,7 @@ I currently work at TIM Brasil in the Provisioning Team, as focal, in projects a
 ##
 
 ### ⚡ Skills:
-- ![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=FFFFFF) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)  ![Git](https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=FFFFFF) ![Django](https://img.shields.io/badge/-Django-092E20?&logo=Django&logoColor=FFFFFF)  ![Flask](https://img.shields.io/badge/-Flask-181717?&logo=Flask&logoColor=FFFFFF) ![Alteryx](https://img.shields.io/badge/-Alteryx-1572B6?style=flat-square&logo=Alteryx) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) 
+- ![Cisco](https://img.shields.io/static/v1?label=Cisco&message=Cisco&color=blue) ![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=FFFFFF) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)  ![Git](https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=FFFFFF) ![Django](https://img.shields.io/badge/-Django-092E20?&logo=Django&logoColor=FFFFFF)  ![Flask](https://img.shields.io/badge/-Flask-181717?&logo=Flask&logoColor=FFFFFF) ![Alteryx](https://img.shields.io/badge/-Alteryx-1572B6?style=flat-square&logo=Alteryx) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) 
 
 
 ### 📦 Databases:
@@ -52,6 +52,9 @@ I currently work at TIM Brasil in the Provisioning Team, as focal, in projects a
   
 </div>
   
+##
+
+
 
 ##
 
