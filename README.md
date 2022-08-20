@@ -2,7 +2,7 @@
 
 I'm Edson Luiz.
 
-I currently work at TIM Brasil in the Provisioning Team, as focal, in projects and attendence the Corporative Clients. Involving configuration of a new clients and make troubleshooting when we find some problema on link. Together with some colegues, we do the development of some codes to automate our work and make it more easily.
+I currently work at TIM Brasil in the Provisioning Team, as focal, in projects and attendence the Corporative Customers. Involving configuration of a new clients and make troubleshooting when we find some problema on link. Together with some colegues, we do the development of some codes to automate our work and make it more easily.
 
 - 📍 I'm currently living in **Rio de Janeiro, Brazil**.
 - ⚙️ I use daily: `Python` (programming), `Cisco`, `Juniper`.
