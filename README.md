@@ -5,8 +5,8 @@ I'm Edson Luiz.
 I currently work at Huawei (Outsourcing by MyBusiness), as Telecom Especialist, in projects and attendence the Corporative Customers. Involving configuration of a new clients and make troubleshooting when we find some problema on link. Together with some colegues, we do the development of some codes to automate our work and make it more easily.
 
 - 📍 I'm currently living in **Rio de Janeiro, Brazil**.
-- ⚙️ I use daily: `Python` (programming), `Cisco`, `Juniper`.
-- 🌱 I'm currently studying more about CCIE, and more about Python.
+- ⚙️ I use daily: `Python` (programming), `Cisco`, `Juniper` and `Huawei`.
+- 🌱 I'm currently studying more about Python, PHP, and other languages as well, CCIE, HCIA and JCNIA.
 - 📫 How to reach me: 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edsonsluiz)](https://www.linkedin.com/in/edsonsluiz)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:edsontrek@gmail.com)](mailto:edsontrek@gmail.com)
