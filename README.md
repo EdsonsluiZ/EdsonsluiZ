@@ -4,7 +4,7 @@
 
 Based in **Rio de Janeiro, Brazil**, I have a professional background in telecommunications, corporate customer support, and team coordination. My experience includes provisioning services, configuring network equipment, and troubleshooting connectivity issues.
 
-Through **Projetos Design Consultorias**, I work on software projects that address practical business needs. My involvement includes defining requirements, organizing workflows, and collaborating on implementation and improvements.
+Through **[Projetos Design Consultorias](https://projetosdesign.com.br/)**, I work on software projects that address practical business needs. My involvement includes defining requirements, organizing workflows, and collaborating on implementation and improvements.
 
 I am expanding my knowledge of Python, PHP, and cybersecurity, connecting my networking experience with automation and web application projects.
 
@@ -18,7 +18,8 @@ I am expanding my knowledge of Python, PHP, and cybersecurity, connecting my net
 
 | Project | Purpose | Technologies |
 | --- | --- | --- |
-| **TEFSMA** | Institutional website and management tools for participants, attendance, and finances. | PHP, HTML5, CSS, SQLite |
+| **TEFSMA** | Institutional website, participant and attendance management, and a customized financial management system tailored to the organization's needs. | PHP, HTML5, CSS, SQLite |
+| **MSC Soluções Ambientais** | Institutional website and management tools for clients, partners, environmental licensing, and cargo transport manifests. | PHP, HTML5, CSS, SQLite |
 | **Memória de Pano** | E-commerce and administration tools for products, inventory, orders, and sales. | PHP, HTML5, CSS, SQLite |
 | **Projetos Design Manager (PDM)** | Centralized management of software products, customers, plans, licenses, billing, and support. | PHP, HTML5, CSS, PostgreSQL |
 
@@ -58,5 +59,6 @@ I am expanding my knowledge of Python, PHP, and cybersecurity, connecting my net
 
 ## Get in Touch
 
+[![Services Website](https://img.shields.io/badge/Services-Visit_My_Website-007ACC?style=flat-square)](https://projetosdesign.com.br/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square)](https://www.linkedin.com/in/edsonsluiz)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:edson.luiz@projetosdesign.com.br)
