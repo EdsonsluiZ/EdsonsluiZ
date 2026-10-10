@@ -1,74 +1,62 @@
-### Hi there 👋
+# Hi, I'm Edson Luiz 👋
 
-I'm Edson Luiz.
+**Telecommunications & Networking | Automation | Web Application Projects**
 
-I currently work as Consultant, as Telecom Especialist, in projects and attendence the Corporative Customers. Involving configuration of a new clients and make troubleshooting when we find some problema on link. Together with some colegues, we do the development of some codes to automate our work and make it more easily.
+Based in **Rio de Janeiro, Brazil**, I have a professional background in telecommunications, corporate customer support, and team coordination. My experience includes provisioning services, configuring network equipment, and troubleshooting connectivity issues.
 
-- 📍 I'm currently living in **Rio de Janeiro, Brazil**.
-- ⚙️ I use daily: `Python` (programming), `Cisco`, `Juniper` and `Huawei`.
-- 🌱 I'm currently studying more about Python, Django, PHP, and other languages as well, CCIE, HCIA and JCNIA.
-- 📫 How to reach me: 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edsonsluiz)](https://www.linkedin.com/in/edsonsluiz)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:edsontrek@gmail.com)](mailto:edsontrek@gmail.com)
+Through **Projetos Design Consultorias**, I work on software projects that address practical business needs. My involvement includes defining requirements, organizing workflows, and collaborating on implementation and improvements.
 
-##
+I am expanding my knowledge of Python, PHP, and cybersecurity, connecting my networking experience with automation and web application projects.
 
-### ⚡ Skills:
-- ![Cisco](https://img.shields.io/static/v1?label=Cisco&message=Cisco&color=blue) ![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=FFFFFF) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)  ![Git](https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=FFFFFF) ![Django](https://img.shields.io/badge/-Django-092E20?&logo=Django&logoColor=FFFFFF)  ![Flask](https://img.shields.io/badge/-Flask-181717?&logo=Flask&logoColor=FFFFFF) ![Alteryx](https://img.shields.io/badge/-Alteryx-1572B6?style=flat-square&logo=Alteryx) 
+## What I Work On
 
+- **Telecommunications and networking:** service provisioning, network configuration, and connectivity troubleshooting.
+- **Automation:** Python scripts and utilities to simplify repetitive tasks.
+- **Business applications:** requirements and workflows for management systems, e-commerce, and SaaS projects.
 
-### 📦 Databases:
-- ![MySql](https://img.shields.io/badge/-MySql-003B57?&logo=MySQL&logoColor=FFFFFF) ![PostgreSql](https://img.shields.io/badge/-PostgreSql-336791?&logo=postgresql&logoColor=FFFFFF) ![SQLite](https://img.shields.io/badge/-SQLite-4479A1?&logo=sqlite&logoColor=FFFFFF)
+## Selected Projects
 
+| Project | Purpose | Technologies |
+| --- | --- | --- |
+| **TEFSMA** | Institutional website and management tools for participants, attendance, and finances. | PHP, HTML5, CSS, SQLite |
+| **Memória de Pano** | E-commerce and administration tools for products, inventory, orders, and sales. | PHP, HTML5, CSS, SQLite |
+| **Projetos Design Manager (PDM)** | Centralized management of software products, customers, plans, licenses, billing, and support. | PHP, HTML5, CSS, PostgreSQL |
 
-### 🧰 Tools:
-- ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white) ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?&logo=Visual%20Studio%20Code&logoColor=FFFFFF) ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=GitHub&logoColor=FFFFFF) ![Windows](https://img.shields.io/badge/-Windows-0078D6?&logo=Windows&logoColor=FFFFFF) ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?&logo=Visual%20Studio&logoColor=FFFFFF) ![Linux](https://img.shields.io/badge/-Linux-FCC624?&logo=Linux&logoColor=FFFFFF) 
+## Technologies
 
-##
+### Networking — Professional Experience
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Edson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Edson-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Edson-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Edson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Edson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Edson-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Edson-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
+![Cisco](https://img.shields.io/badge/Cisco-049FD9?style=flat-square)
+![Juniper](https://img.shields.io/badge/Juniper-008C44?style=flat-square)
+![Huawei](https://img.shields.io/badge/Huawei-CF0A2C?style=flat-square)
 
-##
+### Programming & Web — Project Technologies
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=edsonsluiz&show_icons=true&theme=dark)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square)
 
-  
-##
-  
-<div> 
-  <a href="https://instagram.com/edsonsluiz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/edsonsluiz" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/edsonsluiz#6766" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:edsontrek@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/edsonsluiz" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
-  
-##
+### Databases
 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
+### Tools & Operating Systems
 
-##
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square)
 
-<!--
-**EdsonsluiZ/EdsonsluiZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Education & Learning
 
-Here are some ideas to get you started:
+- Degree in **Computer Networks** — Estácio, 2020.
+- Postgraduate studies in **Enterprise Cybersecurity**.
+- Ongoing learning in **Python, PHP, network automation, and cybersecurity**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Get in Touch
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square)](https://www.linkedin.com/in/edsonsluiz)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:edsontrek@gmail.com)
