@@ -18,9 +18,9 @@ I am expanding my knowledge of Python, PHP, and cybersecurity, connecting my net
 
 | Project | Purpose | Technologies |
 | --- | --- | --- |
-| **TEFSMA** | Institutional website, participant and attendance management, and a customized financial management system tailored to the organization's needs. | PHP, HTML5, CSS, SQLite |
-| **MSC Soluções Ambientais** | Institutional website and management tools for clients, partners, environmental licensing, and cargo transport manifests. | PHP, HTML5, CSS, SQLite |
-| **Memória de Pano** | E-commerce and administration tools for products, inventory, orders, and sales. | PHP, HTML5, CSS, SQLite |
+| **TEFSMA** (https://tefsma.infinityfree.me/)| Institutional website, participant and attendance management, and a customized financial management system tailored to the organization's needs. | PHP, HTML5, CSS, SQLite |
+| **MSC Soluções Ambientais** (https://mscsolucoesambientais.infinityfree.me/)| Institutional website and management tools for clients, partners, environmental licensing, and cargo transport manifests. | PHP, HTML5, CSS, SQLite |
+| **Memória de Pano** (https://memoriadepano.com.br/)| E-commerce and administration tools for products, inventory, orders, and sales. | PHP, HTML5, CSS, SQLite |
 | **Projetos Design Manager (PDM)** | Centralized management of software products, customers, plans, licenses, billing, and support. | PHP, HTML5, CSS, PostgreSQL |
 
 ## Technologies
